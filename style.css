@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Yeon+Sung&display=swap');
+.nav {
+    border-bottom: 1px solid cornsilk;
+    font-family: 'Jua', sans-serif;
+    display: flex;
+    background-color: cornflowerblue;
+    font-size: 240%;
+}
+.nav-logo {
+    color:rgb(74, 56, 179);
+    margin-right: auto;
+    font-weight: bolder;
+}
+.nav-item {
+    color:crimson;
+    margin-left: 3%;
+}
+.aboutme {
+    font-family: 'Yeon Sung', cursive;
+    text-align: center;
+}
+.aboutme h1 {
+    font-size:350%;
+    font-weight: bolder;
+    color:brown;
+}
+
+.aboutme h2 {
+    font-size:200%;
+    margin-top: -3%;
+}
+
+.work {
+    font-family: 'Yeon Sung', cursive;
+    text-align: center;
+}
+.work h1 {
+    font-size:350%;
+    font-weight: bolder;
+    color:brown;
+}
+
+.work h2 {
+    font-size:200%;
+    margin-top: -3%;
+}
+.aboutme h5 {
+    text-align: center;
+}
+.links {
+    margin-top: 10%;
+    font-size: 180%;
+    text-align: center;
+}
