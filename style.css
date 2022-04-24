@@ -21,3 +21,15 @@
 .header h3 {
     margin-bottom: 3%;
 }
+/* About Me */
+.aboutme {
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Yeon Sung', sans-serif;
+}
+.aboutme h1 {
+    font-size: 350%;
+}
+.aboutme h2 {
+    font-size: 200%;
+}
