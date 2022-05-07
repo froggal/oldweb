@@ -31,3 +31,14 @@ a:link, a:visited, a:hover, a:active {
     font-family: 'Yeon Sung', 'sans-serif';
     font-size: 120%;
 }
+.info {
+    text-align: center;
+    margin-top: 5%;
+}
+.info h1 {
+    font-family: 'Jua', 'sans-serif';   
+}
+.info p {
+    font-family: 'Jua', 'sans-serif';
+    font-size: 120%;
+}
