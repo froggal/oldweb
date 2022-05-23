@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
 
 
 a:link, a:visited, a:hover, a:active {
@@ -35,11 +36,12 @@ a:link, a:visited, a:hover, a:active {
 .info {
     text-align: center;
     margin-top: 5%;
+    font-family: 'Poor Story', 'sans-serif';
 }
 .info h1 {
-    font-family: 'Jua', 'sans-serif';   
+    font-size: 220%;
 }
 .info p {
-    font-family: 'Jua', 'sans-serif';
-    font-size: 120%;
+    font-size: 150%;
+    font-family: 'Poor Story', 'sans-serif';
 }
